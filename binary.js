@@ -49,4 +49,3 @@ const calBinaryCount = (num) => {
   }
   return count;
 };
-console.log(calBinaryCount(15));
